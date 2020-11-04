@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* hownowbrowncow */
+
+p {
+    color: #00ff00;
+  }
+
+span.credits {
+  display: none;
+}
+
+section #title .credits {
+  display: none;
+}
