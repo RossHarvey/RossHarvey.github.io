@@ -1,4 +1,4 @@
-Under construction..
+Under construction...
 
 ![logo](images/logo.png)
 ![bridge](images/bridge.jpg)
