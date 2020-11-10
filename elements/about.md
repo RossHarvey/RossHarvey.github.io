@@ -1,12 +1,6 @@
 # ABOUT GLOBAL JOB HUNT
 
-Global Job Hunt, LLC ("GlobalJobHunt") is an American company that specializes in helping individuals and businesses do business in the United States by turning ideas into reality through assisting with resources and opportunities to commercialize products and help to incubate new endeavors. 
-
-## Announcements
-Global Job Hunt, LLC is proud to annnounce the debute of Olga Chepovetsky in her first virtual workshop from Lucerne Switzerland
-
-
- 
+Global Job Hunt, LLC ("GlobalJobHunt") is an American company that specializes in helping  individuals and businesses around the globe to do business in the United States. 
 
 ## Executive Team
 ### April Chepovskygold (Harvey), JD,RN, Chief Executive Officer & President
@@ -20,7 +14,7 @@ Ross Harvey manages new media strategy and business development.  He has been a 
 
 Dr. Moel is board certified eye surgeon and attorney . He has served as CEO and in other C-level executive positions for U.S. and international companies in various industries.  He was a founder of  Akorn, Inc., a NASDAQ pharmaceutical company.  Dr, Moel has guided and brought several private companies to public and has been corporate counsel to numerous others.
 
-### ## Bobby Hamilton, Business Advisor/Marketing
+### Bobby Hamilton, Business Advisor/Marketing
 
 Bobby is a decorated U.S. veteran who has worked at Norad and Peterson Air Force Base. He has been involved in a variety of different industries in the commercial sectors with a significant background in health and safety management for mining and coal terminals. Bobby is involved in business development and marketing for Global Job Hunt in Australia.
 
