@@ -25,3 +25,9 @@ globe turn ideas into reality. The focus of Global Job Hunt is to
 assist individuals and entities with resources and assistance in
 order to do business  and commercialize opportunities in the United
 States.
+
+Some of our clients:
+
+![Ocean Dreams](images/oceandreams.jpg){:height="20%" width="20%"}
+
+![IdeaSpies](images/ideaspies.png){:height="50%" width="50%"}
