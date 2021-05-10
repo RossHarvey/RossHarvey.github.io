@@ -29,11 +29,15 @@ order to do business and commercialize opportunities in the United
 States.
 
 <br>
-## Clients
+## Clients and Partners
 <br>
 
-![Ocean Dreams logo](images/oceandreams.jpg){:height="20%" width="20%"}
+![Editor and Publisher logo](images/Editor.png){:height="40%" width="40%"}
+
+![IdeaSpies logo](images/ideaspies-ss.png){:height="50%" width="50%"}
 
 ![Oberton Logo](images/oberton.png){:height="40%" width="40%"}
 
-![IdeaSpies logo](images/ideaspies-ss.png){:height="50%" width="50%"}
+![Ocean Dreams logo](images/oceandreams.jpg){:height="25%" width="25%"}
+
+![STEERus logo](images/steerus.png){:height="50%" width="50%"}
