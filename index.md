@@ -1,12 +1,15 @@
+<font size="+0.5">
+Global Job Hunt, LLC helps individuals and corporations around the
+globe turn ideas into reality.
 
+The focus of Global Job Hunt is to
+provide individuals and entities with resources and assistance in
+order to do business and commercialize opportunities in the United
+States.
+</font>
+<br>
 
-![logo](images/logo.png)
-
-<!--
-![bridge](images/bridge.jpg)
-  -->
-
-<div style="height: 300px;
+<div style="height: 350px;
             background: #022b57 url(/images/splash_bg.jpg) no-repeat;
             background-position: bottom right;
             background-size: 200px auto;
@@ -18,26 +21,21 @@
        "position: relative; top: 0; left: 0;"/>
     </div>
 </div>
-<br/>
-
-Global Job Hunt, LLC helps individuals and corporations around the
-globe turn ideas into reality.
-
-The focus of Global Job Hunt is to
-provide individuals and entities with resources and assistance in
-order to do business and commercialize opportunities in the United
-States.
 
 <br>
-## Clients and Partners
+<font size="+0.5">
+<i><u>Clients & Partners</u></i>
+</font>
 <br>
 
-![Editor and Publisher logo](images/editor.png){:height="40%" width="40%"}
+![Editor and Publisher logo](images/editor.png){:height="20%" width="20%"}
+<br>
+&nbsp; Editor & Publisher
 
-![IdeaSpies logo](images/ideaspies-ss.png){:height="50%" width="50%"}
+![IdeaSpies logo](images/ideaspies-ss.png){:height="25%" width="25%"}
 
-![Oberton Logo](images/oberton.png){:height="40%" width="40%"}
+![Oberton Logo](images/oberton.png){:height="20%" width="20%"}
 
-![Ocean Dreams logo](images/oceandreams.jpg){:height="25%" width="25%"}
+![Ocean Dreams logo](images/oceandreams.jpg){:height="15%" width="15%"}
 
-![STEERus logo](images/steerus.png){:height="50%" width="50%"}
+![STEERus logo](images/steerus.png){:height="25%" width="25%"}
