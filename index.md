@@ -32,7 +32,7 @@ States.
 ## Clients and Partners
 <br>
 
-![Editor and Publisher logo](images/Editor.png){:height="40%" width="40%"}
+![Editor and Publisher logo](images/editor.png){:height="40%" width="40%"}
 
 ![IdeaSpies logo](images/ideaspies-ss.png){:height="50%" width="50%"}
 
