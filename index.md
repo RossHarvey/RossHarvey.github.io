@@ -39,3 +39,5 @@ States.
 ![Ocean Dreams logo](images/oceandreams.jpg){:height="15%" width="15%"}
 
 ![STEERus logo](images/steerus.png){:height="25%" width="25%"}
+
+![Optimism logo](images/Optimism-Website-Header-3-PNG-OPT-1.png)
