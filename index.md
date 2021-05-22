@@ -32,6 +32,10 @@ States.
 <br>
 &nbsp; Editor & Publisher
 
+![Optimism logo](images/Optimism-Website-Header-3-PNG-OPT-1.png){:height="40%" width="40%"}
+<br>
+&nbsp; Center for Optimism
+
 ![IdeaSpies logo](images/ideaspies-ss.png){:height="25%" width="25%"}
 
 ![Oberton Logo](images/oberton.png){:height="20%" width="20%"}
@@ -39,5 +43,3 @@ States.
 ![Ocean Dreams logo](images/oceandreams.jpg){:height="15%" width="15%"}
 
 ![STEERus logo](images/steerus.png){:height="25%" width="25%"}
-
-![Optimism logo](images/Optimism-Website-Header-3-PNG-OPT-1.png)
